@@ -1,0 +1,10 @@
+.todo-list li div .completed-task {
+  color: #cdcdcd;
+  text-decoration: line-through;
+}
+.created {
+  font-size: small;
+}
+.icon {
+  padding: 6px 30px 6px 12px;
+}
